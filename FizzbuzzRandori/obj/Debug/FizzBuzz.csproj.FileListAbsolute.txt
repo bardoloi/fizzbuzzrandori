@@ -1,0 +1,5 @@
+c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzRandori\bin\Debug\FizzbuzzRandori.dll
+c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzRandori\bin\Debug\FizzbuzzRandori.pdb
+c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzRandori\bin\Debug\Fixie.dll
+c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzRandori\obj\Debug\FizzbuzzRandori.dll
+c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzRandori\obj\Debug\FizzbuzzRandori.pdb
