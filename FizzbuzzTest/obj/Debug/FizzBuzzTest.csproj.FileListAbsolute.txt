@@ -9,3 +9,14 @@ c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\Fizzbu
 c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzTest\obj\Debug\FizzBuzzTest.csprojResolveAssemblyReference.cache
 c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzTest\obj\Debug\FizzbuzzTest.dll
 c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzTest\obj\Debug\FizzbuzzTest.pdb
+C:\dev\FizzbuzzRandori\FizzbuzzTest\bin\Debug\FizzbuzzTest.dll
+C:\dev\FizzbuzzRandori\FizzbuzzTest\bin\Debug\FizzbuzzTest.pdb
+C:\dev\FizzbuzzRandori\FizzbuzzTest\bin\Debug\Fixie.dll
+C:\dev\FizzbuzzRandori\FizzbuzzTest\bin\Debug\FizzbuzzRandori.dll
+C:\dev\FizzbuzzRandori\FizzbuzzTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\FizzbuzzRandori\FizzbuzzTest\bin\Debug\Shouldly.dll
+C:\dev\FizzbuzzRandori\FizzbuzzTest\bin\Debug\FizzbuzzRandori.pdb
+C:\dev\FizzbuzzRandori\FizzbuzzTest\bin\Debug\Shouldly.pdb
+C:\dev\FizzbuzzRandori\FizzbuzzTest\obj\Debug\FizzBuzzTest.csprojResolveAssemblyReference.cache
+C:\dev\FizzbuzzRandori\FizzbuzzTest\obj\Debug\FizzbuzzTest.dll
+C:\dev\FizzbuzzRandori\FizzbuzzTest\obj\Debug\FizzbuzzTest.pdb

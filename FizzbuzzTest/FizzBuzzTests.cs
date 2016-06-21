@@ -13,11 +13,6 @@
             this._fizzBuzz = new FizzBuzz();
         }
 
-        // print 1-100
-        // any number divisible by 3 - Fizz
-        // any number divisible by 5 - Buzz
-        // any number divisible by 3 & 5 - FizzBuzz
-
         public void ShouldHave100Numbers()
         {
             _fizzBuzz.GetNumberQty().ShouldBe(100);

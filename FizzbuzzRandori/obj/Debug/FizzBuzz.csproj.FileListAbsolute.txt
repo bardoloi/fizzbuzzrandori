@@ -3,3 +3,9 @@ c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\Fizzbu
 c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzRandori\bin\Debug\Fixie.dll
 c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzRandori\obj\Debug\FizzbuzzRandori.dll
 c:\users\headspring\documents\visual studio 2015\Projects\FizzbuzzRandori\FizzbuzzRandori\obj\Debug\FizzbuzzRandori.pdb
+C:\dev\FizzbuzzRandori\FizzbuzzRandori\bin\Debug\FizzbuzzRandori.dll
+C:\dev\FizzbuzzRandori\FizzbuzzRandori\bin\Debug\FizzbuzzRandori.pdb
+C:\dev\FizzbuzzRandori\FizzbuzzRandori\bin\Debug\Fixie.dll
+C:\dev\FizzbuzzRandori\FizzbuzzRandori\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\dev\FizzbuzzRandori\FizzbuzzRandori\obj\Debug\FizzbuzzRandori.dll
+C:\dev\FizzbuzzRandori\FizzbuzzRandori\obj\Debug\FizzbuzzRandori.pdb
